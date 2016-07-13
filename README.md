@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reaction [![Circle CI](https://circleci.com/gh/reactioncommerce/reaction.svg?style=svg)](https://circleci.com/gh/reactioncommerce/reaction) [![Code Climate](https://codeclimate.com/github/reactioncommerce/reaction/badges/gpa.svg)](https://codeclimate.com/github/reactioncommerce/reaction) [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/reactioncommerce/reaction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Reaction is a modern reactive, real-time event driven ecommerce platform.
@@ -60,3 +61,6 @@ Join us on our **[Gitter chat room](https://gitter.im/reactioncommerce/reaction)
 Meteor [Atmosphere packages for Reaction](https://atmospherejs.com/?q=reaction)
 
 Docker images are available on the [Docker Hub](https://hub.docker.com/u/reactioncommerce/).
+=======
+# store-reaction
+>>>>>>> 0704925b1d221b6b1d6c4dbf0e13ae6b862e6022
